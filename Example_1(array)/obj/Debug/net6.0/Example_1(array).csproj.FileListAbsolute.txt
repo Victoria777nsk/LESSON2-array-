@@ -1,0 +1,15 @@
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\Example_1(array).csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\Example_1(array).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\Example_1(array).AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\Example_1(array).AssemblyInfo.cs
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\Example_1(array).csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\bin\Debug\net6.0\Example_1(array).exe
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\bin\Debug\net6.0\Example_1(array).deps.json
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\bin\Debug\net6.0\Example_1(array).runtimeconfig.json
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\bin\Debug\net6.0\Example_1(array).dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\bin\Debug\net6.0\Example_1(array).pdb
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\Example_1(array).dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\refint\Example_1(array).dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\Example_1(array).pdb
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\Example_1(array).genruntimeconfig.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\LESSON_2\Example_1(array)\obj\Debug\net6.0\ref\Example_1(array).dll
